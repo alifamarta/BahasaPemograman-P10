@@ -1,3 +1,21 @@
+
+<p align="center"
+
+Nama: Alif Nur Fathlii Amarta
+
+<p align="center"
+
+NIM: 312210326
+
+<p align="center"
+
+Kelas: TI.22.A3
+
+
+# Latihan1
+
+## Code
+
     txt = 'Hello World'
 
 Hitung jumlah karakter
@@ -27,3 +45,23 @@ Ubah text menjadi huruf kecil
 Ganti karakter H dengan karakter J
 
     print(txt.replace('H','J'))
+
+## Output
+
+![img](img/img1.png)
+
+# Latihan 2
+
+## Code
+
+```
+umur = 24
+
+txt = 'Hello nama saya John, dan umur saya adalah {} tahun'
+
+print(txt.format(umur))
+```
+
+## Output
+
+![img](Img/img2.png)
