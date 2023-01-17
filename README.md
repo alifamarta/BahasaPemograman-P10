@@ -48,7 +48,7 @@ Ganti karakter H dengan karakter J
 
 ## Output
 
-![img](img/img1.png)
+![img](Img/img1.png)
 
 # Latihan 2
 
